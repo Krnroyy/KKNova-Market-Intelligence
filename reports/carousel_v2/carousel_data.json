@@ -1,0 +1,199 @@
+{
+    "scorecard": {
+        "market_mood": "Neutral",
+        "health_score": 55,
+        "fii_vs_dii": "DII Net Buyers",
+        "smart_money": "Nifty PSU Bank",
+        "risk_level": "Moderate Risk",
+        "opportunity_level": "Moderate Opportunity",
+        "tomorrow_bias": "Neutral",
+        "one_line_summary": "Market thoda rangebound tha due to persistent FII profit booking."
+    },
+    "market_health_score": {
+        "score": 55,
+        "rating": "Neutral",
+        "components": {
+            "breadth": 50.0,
+            "momentum": 50.0,
+            "vix": 14.5,
+            "fii_dii_flows": 60.0,
+            "sector_participation": 55.0,
+            "market_strength": 50.0
+        },
+        "reasoning": "Consolidation pattern thoda continue ho raha hai."
+    },
+    "ai_market_narrative": {
+        "what_happened": "Indices closed flat today after minor volatility.",
+        "why_it_happened": "Absence of strong global direction kept traders on sideline.",
+        "who_drove_the_move": "FII flow was offset by steady DII buying.",
+        "sectors_participating": "PSU Banks and Realty led, while IT slipped thoda down.",
+        "investors_monitor": "US bond yields and Brent crude prices."
+    },
+    "market_breadth": {
+        "advances": 980,
+        "declines": 1120,
+        "adr": 0.87,
+        "breadth_score": 46.5,
+        "explanation": "More stocks declined than advanced, indicating minor retail selling."
+    },
+    "fear_greed_analysis": {
+        "score": 45,
+        "previous_score": 49,
+        "trend": "Slide to fear",
+        "classification": "Neutral",
+        "explanation": "Traders are cautious close to daily support zones."
+    },
+    "india_vix_analysis": {
+        "current_vix": 14.52,
+        "daily_change_pct": 2.15,
+        "risk_level": "Moderate Risk",
+        "explanation": "VIX range bound index shows that major panics are not expected."
+    },
+    "fii_dii_intelligence": {
+        "fii_net_flow_cr": -1450.2,
+        "dii_net_flow_cr": 1920.6,
+        "buyer": "DIIs",
+        "seller": "FIIs",
+        "winner": "DIIs",
+        "institutional_strength_score": 68
+    },
+    "smart_money_tracker": {
+        "moving_to": "Banking and Realty",
+        "exiting_from": "Information Technology (IT) and Metal",
+        "reasoning": "Capital is rotating into sectors showing strong local CAPEX demand."
+    },
+    "options_intelligence": {
+        "pcr": 0.94,
+        "max_pain": 24000,
+        "highest_call_oi": 24200,
+        "highest_put_oi": 23800,
+        "explanation": "Call writing observed around the 24,200 strike limits."
+    },
+    "global_market_impact": {
+        "sp500": "-0.28%",
+        "nasdaq": "-0.75%",
+        "dow_jones": "+0.08%",
+        "ftse": "-0.15%",
+        "dax": "-0.22%",
+        "nikkei": "-0.45%",
+        "hang_seng": "-0.32%",
+        "gift_nifty": "-0.18%",
+        "global_impact_score": 42,
+        "explanation": "Weak tech cues will thoda drag Nifty IT shares tomorrow."
+    },
+    "ipo_intelligence": {
+        "status": "No major IPO event impacting market sentiment today."
+    },
+    "mutual_fund_intelligence": {
+        "buying_themes": "Accumulating PSU banks and capital goods shares.",
+        "selling_themes": "Trimming chemical names.",
+        "sector_accumulation": "Infrastructure and Power Utilities"
+    },
+    "sector_rotation_intelligence": {
+        "top_performing_sectors": "Nifty Realty, Nifty PSU Bank",
+        "top_weak_sectors": "Nifty IT, Nifty Metal",
+        "rotation_reason": "CAPEX allocations support local capital goods sector.",
+        "narrative": "Rotation shows structural strength in domestic cyclicals."
+    },
+    "risks_opportunities": {
+        "risks": [
+            {
+                "title": "FII outflows",
+                "description": "Global yields are pulling capital thoda slow."
+            },
+            {
+                "title": "IT Earnings slowdown",
+                "description": "Tech spending delays keep upside limited."
+            }
+        ],
+        "opportunities": [
+            {
+                "title": "Local infrastructure spend",
+                "description": "Government CAPEX plans offer long term earnings visibility."
+            },
+            {
+                "title": "Defensive rotation",
+                "description": "Utilities and pharma sectors offer stable dividends."
+            }
+        ]
+    },
+    "stocks_to_watch": [
+        {
+            "symbol": "SBIN",
+            "trend": "Bullish",
+            "support": 820,
+            "resistance": 860,
+            "reason_to_watch": "Showing accumulation above key daily moving averages."
+        },
+        {
+            "symbol": "TCS",
+            "trend": "Bearish",
+            "support": 3810,
+            "resistance": 3940,
+            "reason_to_watch": "Under pressure due to weak Nasdaq flows."
+        },
+        {
+            "symbol": "HAL",
+            "trend": "Neutral",
+            "support": 4250,
+            "resistance": 4450,
+            "reason_to_watch": "Consolidating inside a tight range, watch breakouts."
+        }
+    ],
+    "tomorrow_outlook": {
+        "expected_mood": "Cautious Rangebound",
+        "key_support": 23900,
+        "key_resistance": 24200,
+        "global_triggers": "US CPI details and crude pricing",
+        "institutional_triggers": "FII derivative positions",
+        "tomorrow_playbook": "Watch opening 15-min range boundaries. Trade only post trend confirmation."
+    },
+    "ai_probability_engine": {
+        "bullish_probability": 35,
+        "bearish_probability": 45,
+        "neutral_probability": 20,
+        "ai_confidence_score": 90
+    },
+    "why_should_i_care": {
+        "long_term_investors": "Good accumulation zone for quality large-caps on dips.",
+        "swing_traders": "Prioritize long trades in high-momentum sectors.",
+        "intraday_traders": "Trade range limits near supports, do not chase early gaps.",
+        "sip_investors": "Consolidation allows SIPs to acquire optimal units.",
+        "beginners": "Focus on high-quality index mutual funds instead of small-caps."
+    },
+    "educational_insight": {
+        "concept": "VIX measures expected market volatility over the next 30 days. Higher VIX indicates higher risk."
+    },
+    "investor_takeaway": {
+        "who_benefits": "Value buyers adding cyclical industrial counters.",
+        "who_gets_hurt": "Option buyers holding overnight positions in volatile sessions.",
+        "what_to_watch_next": "Support stability near Nifty 50 intermediate levels.",
+        "one_sentence_summary": "Prioritize capital preservation during ranges."
+    },
+    "data_freshness": {
+        "generated_time": "21 Jun 2026 07:45 IST",
+        "market_data_last_updated": "2026-06-21 07:45:00",
+        "freshness_rating": "HIGH"
+    },
+    "content_quality_score": {
+        "score": 92,
+        "coverage_pct": 100,
+        "readability_pct": 95,
+        "data_confidence_pct": 88,
+        "educational_value_pct": 96
+    },
+    "source_attribution": {
+        "sources": [
+            "Yahoo Finance",
+            "NSE India",
+            "BSE India",
+            "RSS News Feeds",
+            "SEBI"
+        ]
+    },
+    "kknova_branding": {
+        "signature": "KKNova.io Insight",
+        "quote": "Markets reward informed decisions, not emotional reactions.",
+        "disclaimer": "Educational Content Only \u2022 Not Investment Advice"
+    }
+}
