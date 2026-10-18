@@ -1,0 +1,14 @@
+﻿
+# Local configuration
+.env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Runtime data
+*.db
+*.db-*
+*.log
